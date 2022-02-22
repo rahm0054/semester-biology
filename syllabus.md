@@ -1,19 +1,19 @@
 ---
 layout: page
 title: Syllabus
-catalog: WIS 6934
+catalog: BTEC 330
 credits: 3
-semester: Fall 2020
-professor: Dr. Ethan White (he/him)
+semester: Spring 2022
+professor: Nandita Rahman (she/hers)
 office: Zoom
-email: ethanwhite@ufl.edu
+email: rahm0054@umbc.edu
 phone: 
-schedule: ['Tuesdays, 3-3:50 pm ET', 'Fridays, 11:45-1:40 pm ET']
+schedule: ['Tuesdays, 3-4 pm ET', 'Thursday, 3-6 pm ET']
 location: Zoom
-office_hours: "Wednesday & Thursday 2-3 pm ET"
+office_hours: "By Appointment"
 office_hours_location: Zoom
-TA: Andrew Marx
-TA_email: andrewjmarx@ufl.edu
+TA: No TA
+TA_email: NA 
 ---
 
 ## Course
