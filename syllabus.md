@@ -7,13 +7,11 @@ semester: Spring 2022
 professor: Nandita Rahman (she/hers)
 office: Zoom
 email: rahm0054@umbc.edu
-phone: 
-schedule: ['Tuesdays, 3-4 pm ET', 'Thursday, 3-6 pm ET']
-location: Zoom
+schedule: ['Lecture: Tuesdays, 3-4 pm ET, REMOTE', 'Lab: Thursday, 3-6 pm ET, In-Person']
+location: "Lecture - Blackboard, Lab - Rm Shady Grove Building IV 5312"   
 office_hours: "By Appointment"
 office_hours_location: Zoom
-TA: No TA
-TA_email: NA 
+ 
 ---
 
 ## Course
@@ -34,12 +32,7 @@ Email:
 Phone: {{ page.phone }}
 
 
-### Location
-
-{{location}}
-
-
-### Times
+### Times and Location
 
 {% for class in page.schedule %}
   {{ class }}
