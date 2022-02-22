@@ -10,17 +10,17 @@ permalink:        pretty
 
 # Setup
 title:            Data Carpentry for Biologists
-description:      'Teaching the tools to get computers to do cool science'
+description:      'UMBC BTEC 330'
 url:              http://www.datacarpentry.org/semester-biology
 baseurl:          /semester-biology
-email:            datacarpentrysemester@weecology.org
+email:            rahm0054@umbc.edu
 feedbackurl:      docs.google.com/forms/d/1y35uJukuZ9MPKQWWqw0Y8R4VOiaOtFJezDY_t_kJfTs/
 author:
-  name:           'Ethan White'
-  url:            https://twitter.com/ethanwhite
+  name:           'Nandita Rahman'
+  url:            https://www.linkedin.com/in/nanditarahman/
 
 github:
-  repo:           https://github.com/datacarpentry/semester-biology
+  repo:           https://github.com/rahm0054/semester-biology
   #               Be sure the 'Issues' feature is activated in 'Settings'
 
 plugins:
