@@ -17,13 +17,17 @@ office_hours_location: Zoom
 ## Course
 
 {{ site.title }}
+
 {{ page.catalog }}, {{ page.credits }} Credits, {{ page.semester }}
 
 ### Instructor
 
 {{ page.professor }}
+
 Office: {{ page.office }}
+
 Email:
+
 [{{ page.email }}](mailto:{{ page.email }})
 
 ### Times and Location
@@ -31,11 +35,13 @@ Email:
 {% for class in page.schedule %}
   {{ class }}
 {% endfor %}
+
 {{page.location}}
 
 ### Office Hours
 
 Times: {{ page.office_hours }}
+
 Location: {{ page.office_hours_location }}
 
 By appointment. *Note: my schedule gets very busy during the semester so
@@ -53,4 +59,5 @@ periodically for updates.
 
 ### Course Communications
 Email: [{{ page.email }}](mailto:{{ page.email }})
+
 and Blackboard
