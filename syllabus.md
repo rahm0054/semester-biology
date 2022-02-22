@@ -17,35 +17,28 @@ office_hours_location: Zoom
 ## Course
 
 {{ site.title }}
-
 {{ page.catalog }}, {{ page.credits }} Credits, {{ page.semester }}
 
 ### Instructor
 
 {{ page.professor }}
-
 Office: {{ page.office }}
-
 Email:
 [{{ page.email }}](mailto:{{ page.email }})
-
-Phone: {{ page.phone }}
-
 
 ### Times and Location
 
 {% for class in page.schedule %}
   {{ class }}
 {% endfor %}
-
+{{page.location}}
 
 ### Office Hours
 
 Times: {{ page.office_hours }}
-
 Location: {{ page.office_hours_location }}
 
-Or by appointment. *Note: my schedule gets very busy during the semester so
+By appointment. *Note: my schedule gets very busy during the semester so
 please try to schedule appointments as far in advance as possible. In general it
 will be very difficult to set up appointments less than 24 hours in advance.*
 
@@ -60,4 +53,4 @@ periodically for updates.
 
 ### Course Communications
 Email: [{{ page.email }}](mailto:{{ page.email }})
-Blackboard
+and Blackboard

@@ -9,9 +9,9 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            Data Carpentry for Biologists
+title:            Introduction to Software Applications in Biotechnology
 description:      'UMBC BTEC 330'
-url:              http://www.datacarpentry.org/semester-biology
+url:              https://rahm0054.github.io/semester-biology/
 baseurl:          /semester-biology
 email:            rahm0054@umbc.edu
 feedbackurl:      docs.google.com/forms/d/1y35uJukuZ9MPKQWWqw0Y8R4VOiaOtFJezDY_t_kJfTs/
