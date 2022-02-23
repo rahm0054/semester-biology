@@ -1,6 +1,8 @@
 ---
 layout: exercise
+topic: CLI-Shell
 title: Shell 4 - Making Executable Programs
+language: Shell
 ---
 
 This is a follow up on the [Shell 3 - Finding Things problem](/exercises/Shell-3-finding-things).

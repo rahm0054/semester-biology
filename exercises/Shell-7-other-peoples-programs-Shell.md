@@ -1,6 +1,8 @@
 ---
 layout: exercise
+topic: CLI-Shell
 title: Shell 7 - For Loops + Other Peoples Programs
+language: Shell
 ---
 
 We have data on bird communities that we've collected that we need to

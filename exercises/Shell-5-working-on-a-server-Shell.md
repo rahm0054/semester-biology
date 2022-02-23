@@ -1,6 +1,8 @@
 ---
 layout: exercise
+topic: CLI-Shell
 title: Shell 5 - Working on a Server
+language: Shell
 ---
 
 This is a follow up to the [Shell 4 - Making Executable Programs](/exercises/Shell-4-making-executable-programs).

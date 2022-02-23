@@ -1,6 +1,8 @@
 ---
 layout: exercise
+topic: CLI-Shell
 title: Shell 3 - Finding Things
+language: Shell
 ---
 
 This is a follow question to [Shell 2 - Pipes and Filters](/exercises/Shell-2-pipes-and-filters).

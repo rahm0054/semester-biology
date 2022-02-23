@@ -1,6 +1,8 @@
 ---
 layout: exercise
+topic: CLI-Shell
 title: Shell 2 - Pipes and Filters
+language: Shell
 ---
 
 You're working on a large project trying to predict [diversity

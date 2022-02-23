@@ -1,6 +1,8 @@
 ---
 layout: exercise
+topic: CLI-Shell
 title: Shell 6 - Pipes and Filters
+language: Shell
 ---
 
 We have data on bird communities that we've collected that we need to
