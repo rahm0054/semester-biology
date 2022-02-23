@@ -1,7 +1,7 @@
 ---
 layout: exercise
 topic: CLI-Shell
-title: Shell 2 - Pipes and Filters
+title: Pipes and Filters
 language: Shell
 ---
 
