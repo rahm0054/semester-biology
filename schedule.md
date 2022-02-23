@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Assignment Schedule
-assignments: ['Shell', 'Introduction to R and RStudio',
+assignments: ['CLI-Shell', 'Introduction to R and RStudio',
 'Data in Tables', 'Grouping & Joining Data', 'Data Visualization',
 'Review + Reproducibility', 'Spatial Data 1', 'Spatial Data 2', 
 'Functions', 'Making Choices', 'Repeating Things 1', 'Repeating Things 2',
