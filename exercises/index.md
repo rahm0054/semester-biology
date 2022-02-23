@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Exercises
-languages: ['Shell', 'R', 'Python', 'Git']
+languages: ['Shell']
 
 ---
-<a href="#Shell">Shell</a> \| <a href="#R">R</a> \| <a href="#Python">Python</a> \|  <a href="#Git">Git</a>
+<a href="#Shell">Shell</a>
 
 {% for language in page.languages %}
   <h2> {{ language }} <a name="{{ language }}"></a></h2>
