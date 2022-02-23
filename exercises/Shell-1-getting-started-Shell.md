@@ -1,7 +1,7 @@
 ---
 layout: exercise
-topic: Shell
-title: Shell 1 - Getting Started
+topic: CLI-Shell
+title: Getting Started
 language: Shell
 ---
 

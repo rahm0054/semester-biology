@@ -9,13 +9,6 @@ languages: ['Shell']
 {% for language in page.languages %}
   <h2> {{ language }} <a name="{{ language }}"></a></h2>
 
-  {% if language == 'Python' or language == 'Access' %}
-  <i>{{ language }} exercises were used in 
-  <a href="http://www.programmingforbiologists.org/">previous iterations</a>
-  of the course at Utah State University, but are no longer under active 
-  development.</i>
-  {%endif%}
-
   <table>
     <tr>
       <th>Topic</th>
