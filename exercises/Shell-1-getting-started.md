@@ -1,6 +1,8 @@
 ---
 layout: exercise
+topic: Shell
 title: Shell 1 - Getting Started
+language: Shell
 ---
 
 Do the following using the Linux/Mac shell or GitBash on Windows:
